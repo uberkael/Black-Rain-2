@@ -1,23 +1,34 @@
 {
-    "name": "blackrain2",
-    "displayName": "BlackRain 2",
-    "description": "Black Rain modified by UberKaeL",
-    "version": "0.0.1",
-    "publisher": "UberKaeL",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [ "theme", "dark" ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "BlackRain 2",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlackRain 2-color-theme.json"
-            }
-        ]
-    }
+  "name": "blackrain2",
+  "displayName": "BlackRain 2",
+  "description": "Black Rain modified by UberKaeL",
+  "version": "0.0.1",
+  "publisher": "UberKaeL",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BlackRain 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlackRain 2-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "esbuild": "^0.20.2",
+    "vsce": "^2.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:uberkael/Black-Rain-3.git"
+  }
 }
