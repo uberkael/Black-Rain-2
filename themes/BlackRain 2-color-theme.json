@@ -1,0 +1,13 @@
+{
+	"tokenColors": "./BlackRain2.tmTheme",
+	"colors": {
+		"editor.background": "#000000",
+		"editorCursor.foreground": "#FF0099",
+		"editor.foreground": "#4BFCF8",
+		"editorIndentGuide.background": "#33333388",
+		"editorWhitespace.foreground": "#404040",
+		"editor.lineHighlightBackground": "#0090D030",
+		"editor.selectionBackground": "#00FFFF44"
+	},
+	"name": "BlackRain 2"
+}
