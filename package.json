@@ -2,6 +2,7 @@
   "name": "blackrain2",
   "displayName": "BlackRain 2",
   "description": "Black Rain modified by UberKaeL",
+  "icon": "icon.png",
   "version": "0.2.1",
   "publisher": "UberKaeL",
   "engines": {
@@ -11,8 +12,10 @@
     "Themes"
   ],
   "keywords": [
+    "color-theme",
     "theme",
-    "dark"
+    "dark",
+    "high-contrast"
   ],
   "contributes": {
     "themes": [
