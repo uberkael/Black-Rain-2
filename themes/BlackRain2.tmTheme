@@ -131,8 +131,6 @@
 				<string>#00FF0022</string>
 				<key>searchHighlight</key>
 				<string>#FF00AA99</string>
-				<key>selection</key>
-				<string>#00FFFF44</string>
 				<key>stackGuide</key>
 				<string>#333333CC</string>
 			</dict>

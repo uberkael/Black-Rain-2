@@ -2,11 +2,11 @@
 	"tokenColors": "./BlackRain2.tmTheme",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.findMatchBackground": "#00FFFFAA",
+		"editor.findMatchBackground": "#00FFFFCC",
 		"editor.findMatchHighlightBackground": "#00FFFF55",
 		"editor.foreground": "#4BFCF8",
 		"editor.lineHighlightBackground": "#0090D030",
-		"editor.selectionBackground": "#00FFFFAA",
+		"editor.selectionBackground": "#00FFFFFF",
 		"editor.selectionForeground": "#000000",
 		"editor.selectionHighlightBackground": "#00FFFF55",
 		"editor.wordHighlightBackground": "#00FFFF33",
