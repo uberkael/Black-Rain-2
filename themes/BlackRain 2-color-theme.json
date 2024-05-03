@@ -4,10 +4,14 @@
 		"editor.background": "#000000",
 		"editorCursor.foreground": "#FF0099",
 		"editor.foreground": "#4BFCF8",
-		"editorIndentGuide.background": "#33333388",
+		"editorIndentGuide.background1": "#33333388",
 		"editorWhitespace.foreground": "#404040",
 		"editor.lineHighlightBackground": "#0090D030",
-		"editor.selectionBackground": "#00FFFF44"
+		"editor.selectionBackground": "#00FFFF",
+		"editor.selectionHighlightBackground": "#00FFFF55",
+		"editor.findMatchBackground": "#00FFFF",
+		"editor.findMatchHighlightBackground": "#00FFFF55",
+		"editor.wordHighlightBackground": "#00FFFF33"
 	},
 	"name": "BlackRain 2"
 }
