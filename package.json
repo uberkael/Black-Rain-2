@@ -3,7 +3,7 @@
   "displayName": "BlackRain 2",
   "description": "Black Rain modified by UberKaeL",
   "icon": "icon.png",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "publisher": "UberKaeL",
   "engines": {
     "vscode": "^1.53.0"
